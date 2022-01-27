@@ -1,0 +1,13 @@
+C:\Users\Алёна\source\repos\CalculatorService\bin\Release\netcoreapp3.1\CalculatorService.exe
+C:\Users\Алёна\source\repos\CalculatorService\bin\Release\netcoreapp3.1\CalculatorService.deps.json
+C:\Users\Алёна\source\repos\CalculatorService\bin\Release\netcoreapp3.1\CalculatorService.runtimeconfig.json
+C:\Users\Алёна\source\repos\CalculatorService\bin\Release\netcoreapp3.1\CalculatorService.runtimeconfig.dev.json
+C:\Users\Алёна\source\repos\CalculatorService\bin\Release\netcoreapp3.1\CalculatorService.dll
+C:\Users\Алёна\source\repos\CalculatorService\bin\Release\netcoreapp3.1\CalculatorService.pdb
+C:\Users\Алёна\source\repos\CalculatorService\obj\Release\netcoreapp3.1\CalculatorService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алёна\source\repos\CalculatorService\obj\Release\netcoreapp3.1\CalculatorService.AssemblyInfoInputs.cache
+C:\Users\Алёна\source\repos\CalculatorService\obj\Release\netcoreapp3.1\CalculatorService.AssemblyInfo.cs
+C:\Users\Алёна\source\repos\CalculatorService\obj\Release\netcoreapp3.1\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\source\repos\CalculatorService\obj\Release\netcoreapp3.1\CalculatorService.dll
+C:\Users\Алёна\source\repos\CalculatorService\obj\Release\netcoreapp3.1\CalculatorService.pdb
+C:\Users\Алёна\source\repos\CalculatorService\obj\Release\netcoreapp3.1\CalculatorService.genruntimeconfig.cache
